@@ -1,0 +1,10 @@
+{
+  "name": "leaflet-offsetpolygon",
+  "version": "0.0.1",
+  "description": "Create polygons with offset/buffered edges inside them",
+  "main": "leaflet-offset-polygon.js",
+  "author": {
+    "name":"Derrick Pelletier",
+    "email":"derrick@dpelletier.com"
+  }
+}
